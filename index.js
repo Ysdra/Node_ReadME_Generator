@@ -100,4 +100,58 @@ const userData = () =>
     ]);
 
 
+const readme = (answers) => {
+    
+    
+    return `
+
+#  Title
+
+${answers.title}
+
+## Description
+
+${answers.description}
+
+## Installation
+
+${answers.installationGuide}
+
+## User's Guide
+
+${answers.userInstructions}
+
+## Licenses 
+
+${answers.licenseTypes}
+
+## Collaborators
+
+${answers.collaborators}
+
+## Comments
+
+${answers.comments}
+
+##Tests 
+
+${answers.tests}
+
+
+*Github: ${answers.github}
+*Github Profile URL: ${answers.githubProfile}
+*Email: ${answers.email}`
+
+}
+
+// Starts the README Program 
+
+function start() {
+
+    inquirer.prompt(userData)
+    .then(function (answers) {
+        let template = readme(answers);
+        writeFileAsync("README.md", template);
+    }).catch((err)=> console.error(err));
+}
 
