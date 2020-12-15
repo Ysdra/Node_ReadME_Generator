@@ -8,7 +8,7 @@ This is a README file generator that runs off of Node.js. It will automatically 
 https://drive.google.com/file/d/11j5DdDu6J6QRB8_G2W8irYavni0KH6HM/view
 
 ## Demo GIF
-[!REAMDE Generator Demo GIF] (https://github.com/Ysdra/Node_ReadME_Generator/blob/main/Assets/Demo.gif)
+[!REAMDE Generator Demo GIF](https://github.com/Ysdra/Node_ReadME_Generator/blob/main/Assets/Demo.gif)
 
 
 ## Installation & Usage Directions:
