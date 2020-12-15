@@ -104,7 +104,7 @@ const readme = (answers) => {
     
     return `
 
-#  Title
+# Title
 
 ${answers.title}
 
@@ -132,7 +132,7 @@ ${answers.collaborators}
 
 ${answers.comments}
 
-##Tests 
+## Tests 
 
 ${answers.tests}
 
