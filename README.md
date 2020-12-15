@@ -4,7 +4,9 @@ This is a README generator that utilizes Node.js to dynamically create a README 
 ## App Description:
 This is a README file generator that runs off of Node.js. It will automatically style and format a README markdown file for the user so tha they no longer need to know Github markdown styling commands/ 
 
-## Demo 
+## Demo Video Link
+
+## Demo GIFs 
 
 ## Installation & Usage Directions:
 1. Make sure Node.js is installed on your local machine (donwload link to Node: https://nodejs.org/en/download/)
@@ -15,10 +17,7 @@ This is a README file generator that runs off of Node.js. It will automatically 
 6. Generate your README. 
 
 ## Methodology:
-This Node.js application utilizes Node.js's ability to run Javascript without a browser and its ability to leverage existing package.JSON files developed for Node (in this case we are employing the inquirer package). 
-
-## Screenshot of Live Web Application:
-
+This Node.js application utilizes Node.js's ability to run Javascript without a browser and its ability to leverage existing package.JSON files developed for Node (in this case we are employing the inquirer package).
 
 ## License 
 MIT © 
