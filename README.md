@@ -7,7 +7,7 @@ This is a README file generator that runs off of Node.js. It will automatically 
 ## Demo Video Link 
 https://drive.google.com/file/d/11j5DdDu6J6QRB8_G2W8irYavni0KH6HM/view
 
-## Demo GIFs 
+## Demo GIF
 
 ## Installation & Usage Directions:
 1. Make sure Node.js is installed on your local machine (donwload link to Node: https://nodejs.org/en/download/)
