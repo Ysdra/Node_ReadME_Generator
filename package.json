@@ -1,0 +1,28 @@
+{
+  "name": "node_readme_generator",
+  "version": "1.0.0",
+  "description": "README generator application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ysdra/Node_ReadME_Generator.git"
+  },
+  "keywords": [
+    "If",
+    "you're",
+    "reading",
+    "this",
+    "then",
+    "you're",
+    "alright."
+  ],
+  "author": "Joe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ysdra/Node_ReadME_Generator/issues"
+  },
+  "homepage": "https://github.com/Ysdra/Node_ReadME_Generator#readme"
+}
