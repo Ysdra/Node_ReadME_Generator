@@ -111,7 +111,7 @@ ${answers.title}
 ## Table of Contents 
 * [Installation](#installation)
 ​
-* [User's Guide](#user's Guide)
+* [User's Guide](#user's_Guide)
 ​
 * [Licenses](#licenses)
 ​
