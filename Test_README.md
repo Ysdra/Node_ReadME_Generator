@@ -7,7 +7,7 @@ README Generator Demo
 ## Table of Contents 
 * [Installation](#installation)
 ​
-* [User's Guide](#user's Guide)
+* [User's Guide](#user's_Guide)
 ​
 * [Licenses](#licenses)
 ​
@@ -25,7 +25,7 @@ This is a video demo of the README generator in action.
 
 Please refer to my own documentation on the matter.
 
-## User's Guide
+## User's_Guide
 
 Please refer to the above comment.
 
