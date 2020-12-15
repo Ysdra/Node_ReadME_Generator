@@ -136,10 +136,9 @@ ${answers.comments}
 
 ${answers.tests}
 
-
-*Github: ${answers.github}
-*Github Profile URL: ${answers.githubProfile}
-*Email: ${answers.email}`
+1. Github: ${answers.github}
+1. Github Profile URL: ${answers.githubProfile}
+1. Email: ${answers.email}`
 
 }
 
