@@ -99,7 +99,6 @@ const userData = () =>
         }
     ]);
 
-
 const readme = (answers) => {
     
     
@@ -146,12 +145,7 @@ ${answers.tests}
 
 // Starts the README Program 
 
-function start() {
-
-    inquirer.prompt(userData)
-    .then(function (answers) {
-        let template = readme(answers);
-        writeFileAsync("README.md", template);
-    }).catch((err)=> console.error(err));
-}
+userData()
+    .then((answers) => writeFileAsync("README.md", readme(answers)))
+    .catch((err) => console.error(err));
 
