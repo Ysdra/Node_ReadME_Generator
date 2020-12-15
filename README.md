@@ -33,6 +33,6 @@ N/A
 This one lol.
 
 
-*Github: Ysdra
-*Github Profile URL: https://github.com/Ysdra
-*Email: joseph.m.park@utexas.edu
+1. Github: Ysdra
+1. Github Profile URL: https://github.com/Ysdra
+1. Email: joseph.m.park@utexas.edu
