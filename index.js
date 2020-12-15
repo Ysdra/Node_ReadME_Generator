@@ -108,6 +108,19 @@ const readme = (answers) => {
 
 ${answers.title}
 
+## Table of Contents 
+* [Installation](#installation)
+​
+* [User's Guide](#user's Guide)
+​
+* [Licenses](#licenses)
+​
+* [Collaborators](#collaborators)
+​
+* [Comments](#comments)
+​
+* [Tests](#tests)
+
 ## Description
 
 ${answers.description}
@@ -135,6 +148,8 @@ ${answers.comments}
 ## Tests 
 
 ${answers.tests}
+
+## Contact The Creator 
 
 1. Github: ${answers.github}
 1. Github Profile URL: ${answers.githubProfile}
