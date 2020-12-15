@@ -28,7 +28,6 @@
   "dependencies": {
     "fs.promises": "^0.1.2",
     "inquirer": "^7.3.3",
-    "save": "^2.4.0",
     "util": "^0.12.3"
   }
 }
