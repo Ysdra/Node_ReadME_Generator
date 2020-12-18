@@ -2,7 +2,7 @@
 This is a README generator that utilizes Node.js to dynamically create a README file based on user's inputs.  
 
 ## App Description:
-This is a README file generator that runs off of Node.js. It will automatically style and format a README markdown file for the user so tha they no longer need to know Github markdown styling commands/ 
+This is a README file generator that runs off of Node.js. It will automatically style and format a README markdown file for the user so that they no longer need to know Github markdown styling commands
 
 ## Demo Video Link 
 https://drive.google.com/file/d/11j5DdDu6J6QRB8_G2W8irYavni0KH6HM/view
