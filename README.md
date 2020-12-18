@@ -12,12 +12,12 @@ https://drive.google.com/file/d/11j5DdDu6J6QRB8_G2W8irYavni0KH6HM/view
 
 
 ## Installation & Usage Directions:
-1. Make sure Node.js is installed on your local machine (donwload link to Node: https://nodejs.org/en/download/)
-2. Git clone this repo onto your own local machine. 
-3. After Node.js is installed, run the command "npm i" to install all of the relevant dependencies for this application.
-4. Run the command "node index.js" into your terminal.
-5. Go through the terminal prompts.
-6. Generate your README. 
+1. Make sure Node.js is installed on your local machine (download link to Node: https://nodejs.org/en/download/)
+2. Git clone this repo onto your own local machine
+3. After Node.js is installed, run the command "npm i" to install all of the relevant dependencies for this application
+4. Run the command "node index.js" into your terminal
+5. Go through the terminal prompts
+6. Generate your README 
 
 ## Methodology:
 This Node.js application utilizes Node.js's ability to run Javascript without a browser and its ability to leverage existing package.JSON files developed for Node (in this case we are employing the inquirer package).
